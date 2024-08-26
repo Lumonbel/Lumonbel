@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumonbel" alt="lumonbel" /></a> </p>
 
-- 🌱 I’m currently learning **nothing, becuase i don't know if i'm matriculated**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
